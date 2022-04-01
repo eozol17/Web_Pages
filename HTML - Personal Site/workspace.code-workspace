@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "../.."
+	},
+	{
+		"path": "../../../../Documents/GitHub/eozol17.github.io"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "VSCodeProjects"
+  }
+}
